@@ -1,6 +1,8 @@
 from rplidar import RPLidar
 import rclpy
 from sensor_msgs.msg import LaserScan
+#http://docs.ros.org/en/noetic/api/sensor_msgs/html/msg/LaserScan.html
+#idfk this msg
 import sensor_msgs
 from rclpy.node import Node
 
